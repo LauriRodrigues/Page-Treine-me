@@ -7,11 +7,11 @@
 </h4>
 
 <div align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/LauriRodrigues/Page-Treine-me?color=8cc84b&style=plastic">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/LauriRodrigues/Page-Treine-me?color=%231280BF&style=plastic">
 
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LauriRodrigues/Page-Treine-me?color=8cc84b&style=plastic">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LauriRodrigues/Page-Treine-me?color=%231280BF&style=plastic">
   
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LauriRodrigues/Page-Treine-me?color=8cc84b&style=plastic">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LauriRodrigues/Page-Treine-me?color=%231280BF&style=plastic">
   
   <a href="https://laurirodrigues.github.io/Page-Treine-me/"> ▶️ Visualizar Deploy </a>
 </div>
